@@ -28,7 +28,8 @@ Then apply the destroy using "terraform destroy"
 If the infrastructure is temporary, like for a test, demo, or CI/CD experiment.
 To keep our environment clean, especially on cloud resources that cost money.
 
-<img width="1341" height="476" alt="Screenshot 2025-09-25 173101" src="https://github.com/user-attachments/assets/4bb41a3a-8e45-4aad-88c7-b362b2e44869" />
+
+<img width="1271" height="339" alt="Screenshot 2025-09-25 173451" src="https://github.com/user-attachments/assets/dc152cfa-cb2b-42cd-970d-b3239db7f420" />
 
 
 
